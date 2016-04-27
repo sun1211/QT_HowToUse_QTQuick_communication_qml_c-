@@ -1,1 +1,1 @@
-# QT_HowToUse_QTQuick_communication_qml_c-
+example to show : Communication betwween qml class and C++ class
